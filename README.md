@@ -13,7 +13,7 @@ The best scaffolding of building `Koa2` restful API with `TypeScript`.
 
 - Preview: http://localhost:3000/doc.html
 
-- Getting Started: [![Edit koa2-plus](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/koa2-plus-kn0lic)
+- Getting Started: [![Edit koa2-plus](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/koa2-plus-kn0lic) [![Join the chat at https://gitter.im/koa2-plus/community](https://badges.gitter.im/koa2-plus/community.svg)](https://gitter.im/koa2-plus/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 ## Features
